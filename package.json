@@ -1,0 +1,38 @@
+{
+  "fitbit": {
+    "appUUID": "74a1f4bb-b6df-4ec0-9d23-cdcdf6eb77b8",
+    "appType": "clockface",
+    "appDisplayName": "Springtime",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [
+      "access_activity",
+      "access_exercise",
+      "access_heart_rate",
+      "access_internet",
+      "access_location",
+      "run_background",
+      "access_user_profile"
+    ],
+    "buildTargets": [
+      "higgs",
+      "meson",
+      "gemini"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Springtime"
+      }
+    },
+    "defaultLanguage": "en-US",
+    "companion": {
+      "appUUID": "74a1f4bb-b6df-4ec0-9d23-cdcdf6eb77b8"
+    }
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~4.2.0"
+  },
+  "dependencies": {
+    "@fitbit/sdk-cli": "^1.7.3"
+  }
+}

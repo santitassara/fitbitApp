@@ -1,0 +1,8 @@
+{
+  "uuid": "43cc9021-39ef-4a08-88ba-0f4080d42487",
+  "displayName": "DrugLucid",
+  "features": [
+    "screen"
+  ],
+  "requestedPermissions": ["access_sleep"]
+}

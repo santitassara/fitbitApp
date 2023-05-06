@@ -1,0 +1,25 @@
+{
+  "uuid": "74a1f4bb-b6df-4ec0-9d23-cdcdf6eb77b8",
+  "permissions": {
+    "access_sleep_logs": {},
+    "access_user_activity": {},
+    "access_heart_rate": {}
+  },
+  "name": "Springtime",
+  "shortName": "Springtime",
+  "description": "Description of My Fitbit App",
+  "version": "1.0.0",
+  "author": {
+    "name": "Your Name",
+    "email": "Your Email"
+  },
+  "resources": {
+    "media": [
+      {
+        "type": "icon",
+        "sizes": "80x80",
+        "src": "resources/icon_80.png"
+      }
+    ]
+  }
+}
